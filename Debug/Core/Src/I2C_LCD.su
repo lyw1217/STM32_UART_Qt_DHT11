@@ -1,0 +1,8 @@
+I2C_LCD.c:12:6:I2C_LCD_Command	32	static
+I2C_LCD.c:33:6:I2C_LCD_Data	32	static
+I2C_LCD.c:54:6:I2C_LCD_Init	8	static
+I2C_LCD.c:64:6:I2C_LCD_String	8	static
+I2C_LCD.c:70:6:move_Cursor	0	static
+I2C_LCD.c:75:6:I2C_LCD_XY_String	8	static
+I2C_LCD.c:80:6:I2C_LCD_XY_Data	8	static
+I2C_LCD.c:85:6:I2C_LCD_Clear	0	static
